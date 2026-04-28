@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -141,3 +142,21 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+=======
+frontend/node_modules
+backend/node_modules
+frontend/.next
+frontend/.env.local
+frontend/.env.example
+backend/.env
+docker/ssl
+docker/mongo-init.js
+docker/nginx.conf
+docker-compose.yml
+docker/mongo-init.js
+docker/nginx.conf
+docker-compose.yml
+docker/mongo-init.js
+docker/nginx.conf
+docker-compose.yml
+>>>>>>> 913b736 (Initial commit)
